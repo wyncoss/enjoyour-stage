@@ -5,31 +5,31 @@ export const teamSlider = {
       images: [
         {
           title: 'Roger',
-          path: '/me.jpg',
+          path: './me.jpg',
         },
         {
           title: 'Yuly',
-          path: '/yuli.jpg',
+          path: './yuli.jpg',
         },
         {
           title: 'Alexa',
-          path: '/alex.jpg',
+          path: './alex.jpg',
         },
         {
           title: 'Camilo',
-          path: '/test.jpg',
+          path: './test.jpg',
         },
         {
           title: 'Sebas',
-          path: '/sebas.jpg',
+          path: './sebas.jpg',
         },
         {
           title: 'Carito',
-          path: '/caro.jpg',
+          path: './caro.jpg',
         },
         {
           title: 'Dayana',
-          path: '/d3.jpg',
+          path: './d3.jpg',
         },
       ],
     },
