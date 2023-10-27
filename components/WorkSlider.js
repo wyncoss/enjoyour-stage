@@ -5,11 +5,11 @@ export const workSlider = {
       images: [
         {
           title: 'Index',
-          path: './w1.png',
+          path: './w1.jpg',
         },
         {
           title: 'Sección compras',
-          path: './w3.png',
+          path: './w3.jpg',
         },
       ],
     },
@@ -17,11 +17,11 @@ export const workSlider = {
       images: [
         {
           title: 'Sección inicio',
-          path: './w2.png',
+          path: './w2.jpg',
         },
         {
           title: 'Póster',
-          path: './w7.png',
+          path: './w7.jpg',
         },
       ],
     },
