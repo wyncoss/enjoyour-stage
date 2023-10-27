@@ -81,9 +81,12 @@ const TeamSlider = () => {
         return (
           <SwiperSlide key={index}>
             <div className="grid grid-cols-4 gap-4">
-              {slide.images.map((image, index) => {
+              {slide.images.map((image, key) => {
                 return (
-                  <div className="relative rounded-lg overflow-hidden flex items-center justify-center group">
+                  <div
+                    key={index}
+                    className="relative rounded-lg overflow-hidden flex items-center justify-center group"
+                  >
                     <div className="flex items-center justify-center relative overflow-hidden">
                       {/* image */}
                       <Image
