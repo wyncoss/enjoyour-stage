@@ -1,5 +1,6 @@
 // icons
 import {
+  BsFillSquareFill,
   BsFill1SquareFill,
   BsFill2SquareFill,
   BsFill3SquareFill,
@@ -22,7 +23,7 @@ export const navData = [
   {
     name: 'sexto semestre',
     path: '/7',
-    icon: <BsFill6SquareFill />,
+    icon: <BsFillSquareFill />,
   },
   {
     name: 'documentation',
