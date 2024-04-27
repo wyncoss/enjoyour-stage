@@ -21,7 +21,7 @@ export const navData = [
   {
     name: 'sexto semestre',
     path: '/7',
-    icon: <BsFill5SquareFill />,
+    icon: <BsFill6SquareFill />,
   },
   {
     name: 'documentation',
