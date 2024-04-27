@@ -1,5 +1,6 @@
 // icons
 import {
+  BsFillSquareFill,
   BsFill1SquareFill,
   BsFill2SquareFill,
   BsFill3SquareFill,
