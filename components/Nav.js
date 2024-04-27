@@ -5,6 +5,7 @@ import {
   BsFill3SquareFill,
   BsFill4SquareFill,
   BsFill5SquareFill,
+  BsFill6SquareFill,
   BsGithub,
   BsStarFill,
   BsPersonCircle,
@@ -21,7 +22,7 @@ export const navData = [
   {
     name: 'sexto semestre',
     path: '/7',
-    icon: <BsFill1SquareFill />,
+    icon: <BsFill16SquareFill />,
   },
   {
     name: 'documentation',
