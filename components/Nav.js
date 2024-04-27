@@ -19,7 +19,7 @@ export const navData = [
   // { name: 'tercer semestre', path: '/5', icon: <BsFill3SquareFill /> },
   // { name: 'cuarto semestre', path: '/6', icon: <BsFill4SquareFill /> },
   {
-    name: 'quinto semestre',
+    name: 'sexto semestre',
     path: '/7',
     icon: <BsFill5SquareFill />,
   },
